@@ -1,0 +1,10 @@
+C:\Users\Test-2020\Documents\Visual_Studio_Projects\Practice_Terminal_Project\obj\Debug\Practice_Terminal_Project.csprojAssemblyReference.cache
+C:\Users\Test-2020\Documents\Visual_Studio_Projects\Practice_Terminal_Project\obj\Debug\Practice_Terminal_Project.Properties.Resources.resources
+C:\Users\Test-2020\Documents\Visual_Studio_Projects\Practice_Terminal_Project\obj\Debug\Practice_Terminal_Project.csproj.GenerateResource.cache
+C:\Users\Test-2020\Documents\Visual_Studio_Projects\Practice_Terminal_Project\obj\Debug\Practice_Terminal_Project.csproj.CoreCompileInputs.cache
+C:\Users\Test-2020\Documents\Visual_Studio_Projects\Practice_Terminal_Project\bin\Debug\Practice_Terminal_Project.exe.config
+C:\Users\Test-2020\Documents\Visual_Studio_Projects\Practice_Terminal_Project\bin\Debug\Practice_Terminal_Project.exe
+C:\Users\Test-2020\Documents\Visual_Studio_Projects\Practice_Terminal_Project\bin\Debug\Practice_Terminal_Project.pdb
+C:\Users\Test-2020\Documents\Visual_Studio_Projects\Practice_Terminal_Project\obj\Debug\Practice_Terminal_Project.exe
+C:\Users\Test-2020\Documents\Visual_Studio_Projects\Practice_Terminal_Project\obj\Debug\Practice_Terminal_Project.pdb
+C:\Users\Test-2020\Documents\Visual_Studio_Projects\Practice_Terminal_Project\obj\Debug\Practice_Terminal_Project.Form1.resources
